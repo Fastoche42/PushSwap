@@ -1,0 +1,10 @@
+*DS_store
+imgui*
+*visualizer
+*tester
+*_Mac
+*swp
+*.pdf
+push_swap
+checker
+*.o
